@@ -1,6 +1,6 @@
 # responsive_flutter_app
 
-A new Flutter project.
+A responsive flutter project for Web, Tablet and Mobile.
 
 ## Getting Started
 
